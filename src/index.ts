@@ -1,7 +1,7 @@
-import {myPick} from  './index01'
+import { myPick } from './index01'
 class Animal {
-    name:string;
-    constructor(name:string) {
+    name: string;
+    constructor(name: string) {
         this.name = name;
     }
     sayHi() {
